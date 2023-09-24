@@ -56,9 +56,9 @@ content:
   - title: Publications # Title for the section
     layout: text # Type of content section (list/text)
     content: |
-    - NextG-up: a tool for measuring uplink performance of 5G networks
-    Imran Khan, Moinak Ghoshal, Qiang Xu, Z. Jonny Kong, Y. Charlie Hu, and Dimitrios Koutsonikolas 
-    ACM Mobisys, 2022
+      - NextG-up: a tool for measuring uplink performance of 5G networks
+        Imran Khan, Moinak Ghoshal, Qiang Xu, Z. Jonny Kong, Y. Charlie Hu, and Dimitrios Koutsonikolas 
+        ACM Mobisys, 2022
      
 
   - title: Experience # Title for the section
