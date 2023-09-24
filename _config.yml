@@ -46,7 +46,7 @@ additional_links:
 
 # About Section
 # about_title: About Me
-about_profile_image: images/imran.jpg
+about_profile_image: images/imran.jpeg
 about_content: | # this will include new lines to allow paragraphs
   Hi Everyone, I am Imran Khan and I am from Bangladesh. Currently, I am a Ph.D. student in Computer Engineering at Northeastern University. Before that, I completed my master's in the Department of Electrical and Computer Engineering at Southern Illinois University Carbondale (2020) and I earned my Bachelor of Science in Electrical and Electronic Engineering from Bangladesh University of Engineering and Technology (BUET) in 2014. Currently, I am working as a Research Assistant in NUWiNS Lab under the supervision of Dr. Dimitrios Koutsonikolas. My research interest lies in the area of 5G mm-Wave Networking.
 
@@ -106,17 +106,27 @@ content:
         #   Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description: | # this will include new lines to allow paragraphs
           I was part of the Ubiquitous Networking & Computing lab where I was involved with investigating Multi-Path TCP (MPTCP) performance in heterogenous networks.
+
+      - layout: left
+        title:  Bangladesh University of Engineering and Technology(BUET).
+        caption: 2009 - 2014
+        sub_title: B.Sc. in Electrical and Electronics Engineering
+        # quote: >
+        #   Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+        description: | # this will include new lines to allow paragraphs
+          I was part of the Ubiquitous Networking & Computing lab where I was involved with investigating Multi-Path TCP (MPTCP) performance in heterogenous networks.     
   
   - title: CV
     layout: text
     content: | # this will include new lines to allow paragraphs
-      - Here is my [CV]({{ site.url }}/assets/IMRAN_CV_Academic.pdf).
+      - Here is my [CV]({{ imranbuet63.github.io }}/assets/IMRAN_CV_Academic.pdf).
 
   - title: Professional Service
     layout: text
     content: | # this will include new lines to allow paragraphs
       - Web-Chair IEEE WoWMoM 2022
       - Reviewer Globecom 2021
+      -Reviewer 5G-MEMU Sigcomm WorkShop 2021
 
     # Look at this cool image  
     # ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
