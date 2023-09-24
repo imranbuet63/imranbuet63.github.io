@@ -54,23 +54,12 @@ about_content: | # this will include new lines to allow paragraphs
 
 content:
   - title: Publications # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: left
-        title: Super awesome project
-        link: github.com/sproogen
-        # link_text: Project Website
-        additional_links:
-          - title:  sproogen/modern-resume-theme
-            icon: fab fa-github
-            url: github.com/sproogen/modern-resume-theme
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #   icon: fab fa-github
-          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-        quote: >
-          This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
-        description: | # this will include new lines to allow paragraphs
-          I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+    layout: text # Type of content section (list/text)
+    content: |
+    - NextG-up: a tool for measuring uplink performance of 5G networks
+    Imran Khan, Moinak Ghoshal, Qiang Xu, Z. Jonny Kong, Y. Charlie Hu, and Dimitrios Koutsonikolas 
+    ACM Mobisys, 2022
+     
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
@@ -99,7 +88,7 @@ content:
           I am part of NuWINS lab and also affiliated with the Northeastern Institure for the Wireless Internet of Things (WIoT). Here in WIoT we are involved in developing next generation cellular networks/testbeds. My current projects involve ensuring end to end performance, mobility, reliability and consistency of performance of mmWave cellular in current 5G. This is my CV.
       
       - layout: left
-        title:  Southern Illinois University 
+        title:  Southern Illinois University Carbondale
         caption: 2018 - 2020
         sub_title: Master's in Computer Engineering
         # quote: >
@@ -108,7 +97,7 @@ content:
           I was part of the Ubiquitous Networking & Computing lab where I was involved with investigating Multi-Path TCP (MPTCP) performance in heterogenous networks.
 
       - layout: left
-        title:  Bangladesh University of Engineering and Technology(BUET).
+        title:  Bangladesh University of Engineering and Technology (BUET)
         caption: 2009 - 2014
         sub_title: B.Sc. in Electrical and Electronics Engineering
         # quote: >
@@ -126,7 +115,7 @@ content:
     content: | # this will include new lines to allow paragraphs
       - Web-Chair IEEE WoWMoM 2022
       - Reviewer Globecom 2021
-      -Reviewer 5G-MEMU Sigcomm WorkShop 2021
+      - Reviewer 5G-MEMU Sigcomm WorkShop 2021
 
     # Look at this cool image  
     # ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
