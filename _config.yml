@@ -96,27 +96,30 @@ content:
         # quote: >
         #   Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description: | # this will include new lines to allow paragraphs
-          I am part of NuWINS lab and also affiliated with the Northeastern Institure for the Wireless Internet of Things (WIoT). Here in WIoT we are involved in developing next generation cellular networks/testbeds  
+          I am part of NuWINS lab and also affiliated with the Northeastern Institure for the Wireless Internet of Things (WIoT). Here in WIoT we are involved in developing next generation cellular networks/testbeds. My current projects involve ensuring end to end performance, mobility, reliability and consistency of performance of mmWave cellular in current 5G. This is my CV.
       
       - layout: left
         title:  Southern Illinois University 
-        caption: 2020 - Present
+        caption: 2018 - 2020
         sub_title: Master's in Computer Engineering
         # quote: >
         #   Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description: | # this will include new lines to allow paragraphs
           I was part of the Ubiquitous Networking & Computing lab where I was involved with investigating Multi-Path TCP (MPTCP) performance in heterogenous networks.
+  
+  - title: CV
+    layout: text
+    content: | # this will include new lines to allow paragraphs
+      - Here is my [CV]({{ site.url }}/assets/IMRAN_CV_Academic.pdf).
 
   - title: Professional Service
     layout: text
     content: | # this will include new lines to allow paragraphs
-      - Rock climbing
-      - Gaming
-      - Knitting
-      - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
+      - Web-Chair IEEE WoWMoM 2022
+      - Reviewer Globecom 2021
 
-      Look at this cool image  
-      ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
+    # Look at this cool image  
+    # ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
 
 # Footer
 footer_show_references: true
