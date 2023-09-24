@@ -48,9 +48,11 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/imran.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Brett and I'm a senior network system administrator. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
+  Hi Everyone, Welcome to my personal website. I am Imran Khan and I am from Bangladesh. Currently, I am a Ph.D. student in the Department of Electrical and Computer Engineering at Northeastern University. Before that, I completed my master's in the Department of Electrical and Computer Engineering at Southern Illinois University Carbondale (2020) and I earned my Bachelor of Science in Electrical and Electronic Engineering from Bangladesh University of Engineering and Technology (BUET) in 2014.
 
-  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
+Currently, I am working as a Research Assistant in NUWiNS Lab under the supervision of Dr. Dimitrios Koutsonikolas. My research interest lies in the area of 5G mm-Wave Networking.
+
+  # I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
 
 content:
   - title: Projects # Title for the section
