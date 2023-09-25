@@ -58,7 +58,7 @@ content:
     layout: text # Type of content section (list/text)
     content: |
       - Performance of Cellular Networks on the Wheels.
-        **Imran Khan**, Moinak Ghoshal*, Jonny Kong*, Phuc Dinh, Jiayi Meng, Y. Charlie Hu, Dimitrios Koutsonikolas.
+        <b>Imran Khan*</b>, Moinak Ghoshal*, Jonny Kong*, Phuc Dinh, Jiayi Meng, Y. Charlie Hu, Dimitrios Koutsonikolas.
         [In Proceedings of the 23rd ACM Internet Measurement Conference (IMC), Montreal, Canada, October 24-26, 2023]
       - NextG-up: a tool for measuring uplink performance of 5G networks 
         **Imran Khan**, Moinak Ghoshal, Qiang Xu, Z. Jonny Kong, Y. Charlie Hu, and Dimitrios Koutsonikolas 
@@ -134,10 +134,12 @@ content:
     content: | # this will include new lines to allow paragraphs
       - Here is my [CV]({{ imranbuet63.github.io }}/assets/IMRAN_CV_Academic.pdf).
 
-  - title: Professional Service
+  - title: Awards and Professional Service
     layout: text
     content: | # this will include new lines to allow paragraphs
-      - Web-Chair IEEE WoWMoM 2022
+      - Web-Chair IEEE WoWMoM 2023
+      - Got selected for NSF Funded Student travel grant for Mobicom’2021
+      - Got selected for NSF Funded POWDER Network and Wireless Week, Salt Lake City , Utah 2019
       - Reviewer Globecom 2021
       - Reviewer 5G-MEMU Sigcomm WorkShop 2021
 
