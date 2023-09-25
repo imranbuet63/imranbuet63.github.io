@@ -61,20 +61,20 @@ content:
         **Imran Khan***, Moinak Ghoshal*, Jonny Kong*, Phuc Dinh, Jiayi Meng, Y. Charlie Hu, Dimitrios Koutsonikolas.
         [In Proceedings of the 23rd ACM Internet Measurement Conference (IMC), Montreal, Canada, October 24-26, 2023]
       - NextG-up: a tool for measuring uplink performance of 5G networks 
-        Imran Khan, Moinak Ghoshal, Qiang Xu, Z. Jonny Kong, Y. Charlie Hu, and Dimitrios Koutsonikolas 
+        **Imran Khan**, Moinak Ghoshal, Qiang Xu, Z. Jonny Kong, Y. Charlie Hu, and Dimitrios Koutsonikolas 
         [ACM Mobisys, 2022]
-      - MuSher: An Agile Multipath-TCP Scheduler for Dual-Band 802.11ad/ac Wireless LANs S. Aggarwal, S. K. Saha, Imran Khan, R. Pathak, D. Koutsonikolas and J. Widmer
+      - MuSher: An Agile Multipath-TCP Scheduler for Dual-Band 802.11ad/ac Wireless LANs S. Aggarwal, S. K. Saha, **Imran Khan**, R. Pathak, D. Koutsonikolas and J. Widmer
         [IEEE/ACM Transactions on Networking, 2022]
       - An In-Depth Study of Uplink Performance of 5G mmWave Networks
-        Moinak Ghoshal, Z. Jonny Kong, Qiang Xu, Zixiao Lu, Shivang Aggarwal, Imran Khan, Yuanjie Li, Y. Charlie Hu, Dimitrios Koutsonikolas
+        Moinak Ghoshal, Z. Jonny Kong, Qiang Xu, Zixiao Lu, Shivang Aggarwal, **Imran Khan**, Yuanjie Li, Y. Charlie Hu, Dimitrios Koutsonikolas
         [ACM SIGCOMM 5G-MEMU, 2022]
       - Multipath TCP in Smartphones Equipped with Millimeter Wave Radios
-        Imran Khan, Moinak Ghoshal, Shivang Aggarwal, Dimitrios Koutsonikolas, Joerg Widmer [ACM WiNTECH, 2021]
-      - Efficient Bandwidth Aggregation with MPTCP for Connected Vehicles Imran Khan, K. Chen
+        **Imran Khan**, Moinak Ghoshal, Shivang Aggarwal, Dimitrios Koutsonikolas, Joerg Widmer [ACM WiNTECH, 2021]
+      - Efficient Bandwidth Aggregation with MPTCP for Connected Vehicles **Imran Khan**, K. Chen
         [IEEE Internet of Things, 2021]
-      - Bandwidth-need driven energy efficiency improvement of MPTCP users in wireless networks M. R. Palash, K. Chen, Imran Khan
+      - Bandwidth-need driven energy efficiency improvement of MPTCP users in wireless networks M. R. Palash, K. Chen, **Imran Khan**
         [IEEE Trans. Green Commun. Netw., 2019]
-      - Towards Efficient, Work-Conserving, and Fair Bandwidth Guarantee in Cloud Datacenters B. S. Ali, K. Chen and Imran Khan
+      - Towards Efficient, Work-Conserving, and Fair Bandwidth Guarantee in Cloud Datacenters B. S. Ali, K. Chen and **Imran Khan**
         [IEEE Access, 2019]
 
 
@@ -104,7 +104,7 @@ content:
         # quote: >
         #   Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description: | # this will include new lines to allow paragraphs
-          I am part of NuWINS lab and also affiliated with the Northeastern Institure for the Wireless Internet of Things (WIoT). Here in WIoT we are involved in developing next generation cellular networks/testbeds. My current projects involve ensuring end to end performance, mobility, reliability and consistency of performance of mmWave cellular in current 5G. This is my CV.
+          I am part of NuWINS lab and also affiliated with the Northeastern Institure for the Wireless Internet of Things (WIoT). As part of the WIoT I am involved in developing next generation cellular networks/testbeds. Besides, my other projects involve ensuring end to end performance, mobility, reliability and consistency of performance of mmWave cellular in current 5G. 
       
       - layout: left
         title:  Southern Illinois University Carbondale
@@ -122,7 +122,7 @@ content:
         # quote: >
         #   Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description: | # this will include new lines to allow paragraphs
-          I was part of the Ubiquitous Networking & Computing lab where I was involved with investigating Multi-Path TCP (MPTCP) performance in heterogenous networks.     
+               Bangladesh University of Engineering and Technology (BUET) is one of the top enginnering schools in Bangladesh.
   
   - title: CV
     layout: text
