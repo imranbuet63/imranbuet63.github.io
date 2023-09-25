@@ -8,6 +8,7 @@ version: 2
 # Personal info
 name: Imran Khan
 title: Ph.D. Student | Research Assistant
+title: Boston, Massachussets
 email: khan.i@northeastern.edu
 website: imranbuet63@github.io
 
@@ -56,10 +57,25 @@ content:
   - title: Publications # Title for the section
     layout: text # Type of content section (list/text)
     content: |
-      - NextG-up: a tool for measuring uplink performance of 5G networks
+      - NextG-up: a tool for measuring uplink performance of 5G networks 
         Imran Khan, Moinak Ghoshal, Qiang Xu, Z. Jonny Kong, Y. Charlie Hu, and Dimitrios Koutsonikolas 
-        ACM Mobisys, 2022
-     
+        [ACM Mobisys, 2022]
+      - MuSher: An Agile Multipath-TCP Scheduler for Dual-Band 802.11ad/ac Wireless LANs S. Aggarwal, S. K. Saha, Imran Khan, R. Pathak, D. Koutsonikolas and J. Widmer
+        [IEEE/ACM Transactions on Networking, 2022]
+      - An In-Depth Study of Uplink Performance of 5G mmWave Networks
+        Moinak Ghoshal, Z. Jonny Kong, Qiang Xu, Zixiao Lu, Shivang Aggarwal, Imran Khan, Yuanjie Li, Y. Charlie Hu, Dimitrios Koutsonikolas
+        [ACM SIGCOMM 5G-MEMU, 2022]
+      - Multipath TCP in Smartphones Equipped with Millimeter Wave Radios
+        Imran Khan, Moinak Ghoshal, Shivang Aggarwal, Dimitrios Koutsonikolas, Joerg Widmer [ACM WiNTECH, 2021]
+      - Efficient Bandwidth Aggregation with MPTCP for Connected Vehicles Imran Khan, K. Chen
+        [IEEE Internet of Things, 2021]
+      - Bandwidth-need driven energy efficiency improvement of MPTCP users in wireless networks M. R. Palash, K. Chen, Imran Khan
+        [IEEE Trans. Green Commun. Netw., 2019]
+      - Towards Efficient, Work-Conserving, and Fair Bandwidth Guarantee in Cloud Datacenters B. S. Ali, K. Chen and Imran Khan
+        [IEEE Access, 2019]
+
+
+    
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
