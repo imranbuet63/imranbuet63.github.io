@@ -124,6 +124,11 @@ content:
         description: | # this will include new lines to allow paragraphs
                Bangladesh University of Engineering and Technology (BUET) is one of the top enginnering schools in Bangladesh.
   
+  - title: Skills
+    layout: text
+    content: | # this will include new lines to allow paragraphs
+      - Python, C/C++, Android (Java/Kotlin)
+
   - title: CV
     layout: text
     content: | # this will include new lines to allow paragraphs
