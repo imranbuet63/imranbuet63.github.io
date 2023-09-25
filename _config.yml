@@ -127,7 +127,7 @@ content:
   - title: Skills
     layout: text
     content: | # this will include new lines to allow paragraphs
-      - Python, C/C++, Android (Java/Kotlin)
+      - Python, C/C++, Android (Java/Kotlin), HTML, CSS
 
   - title: CV
     layout: text
