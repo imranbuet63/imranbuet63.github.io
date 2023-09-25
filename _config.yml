@@ -58,10 +58,10 @@ content:
     layout: text # Type of content section (list/text)
     content: |
       - Performance of Cellular Networks on the Wheels.
-        Imran Khan*, Moinak Ghoshal*, Jonny Kong*, Phuc Dinh, Jiayi Meng, Y. Charlie Hu, Dimitrios Koutsonikolas.
+        **Imran Khan^**, Moinak Ghoshal^, Jonny Kong^, Phuc Dinh, Jiayi Meng, Y. Charlie Hu, Dimitrios Koutsonikolas.
         [ACM IMC, 2023]
       - NextG-up: a tool for measuring uplink performance of 5G networks 
-        **Imran Khan**, Moinak Ghoshal, Qiang Xu, Z. Jonny Kong, Y. Charlie Hu, and Dimitrios Koutsonikolas 
+        **Imran Khan^**, Moinak Ghoshal^, Qiang Xu^, Z. Jonny Kong, Y. Charlie Hu, and Dimitrios Koutsonikolas 
         [ACM Mobisys, 2022]
       - MuSher: An Agile Multipath-TCP Scheduler for Dual-Band 802.11ad/ac Wireless LANs S. Aggarwal, S. K. Saha, **Imran Khan**, R. Pathak, D. Koutsonikolas and J. Widmer
         [IEEE/ACM Transactions on Networking, 2022]
