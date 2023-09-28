@@ -132,7 +132,7 @@ content:
   - title: Dataset | Software 
     layout: text
     content: | # this will include new lines to allow paragraphs
-      - [Dataset] ({{ https://github.com/NUWiNS/imc2023-cellular-network-performance-on-wheels-data}}) for 5G network performance on the wheels [ACM IMC 2023]
+      - [Dataset] (https://github.com/NUWiNS/imc2023-cellular-network-performance-on-wheels-data){:target="_blank"}{:rel="noopener noreferrer"} for 5G network performance on the wheels [ACM IMC 2023]
       - Android app [NextG-UP] ({{ https://play.google.com/store/apps/details?id=com.nuwins.cellnetworkinfo&hl=en_US&gl=US }}) app for a crowd-sourcing based measurement study of 5G uplink performance evolution.
       - MPTCP [source code]({{ https://github.com/NUWiNS/ROGII_MPTCP/tree/master}}) for an ROG Phone 2, from our WiNTECH 2021 paper.
       - MPTCP [source code]({{ https://github.com/imranbuet63/proton_mptcp}}) for Pixel-5 Phone.
