@@ -1,0 +1,173 @@
+# # Site
+repository: sproogen/resume-theme
+favicon: images/favicon.ico
+
+# Content configuration version
+version: 2
+
+# Personal info
+name: Imran Khan
+title: Ph.D. Candidate | Research Assistant 
+
+# title: Boston, Massachussets
+email: khan.i@northeastern.edu
+website: imranbuet63@github.io
+
+# Dark Mode (true/false/never)
+darkmode: never
+
+# Social links
+# twitter_username: facespics
+github_username:  imranbuet63
+# stackoverflow_username: "00000001"
+# dribbble_username: jekyll
+# facebook_username: jekyll
+# flickr_username: jekyll
+# instagram_username: jameswgrant
+linkedin_username: imrankhan063
+# xing_username: jekyll
+# pinterest_username: jekyll
+# youtube_username: globalmtb
+# googleplus_username: +jekyll
+# orcid_username: 0000-0000-0000-0000
+
+# Additional icon links
+additional_links:
+- title: Google Scholar
+  icon: fas fa-globe
+  url: https://scholar.google.com/citations?user=QqftVlIAAAAJ&hl=en
+# - title: another link
+#   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
+#   url: Link url (eg. https://google.com)
+
+# Google Analytics and Tag Manager
+# Using more than one of these may cause issues with reporting
+# gtm: "GTM-0000000"
+# gtag: "UA-00000000-0"
+# google_analytics: "UA-00000000-0"
+
+# About Section
+# about_title: About Me
+about_profile_image: images/imran.jpeg
+about_content: | # this will include new lines to allow paragraphs
+  Hi Everyone, I am Imran Khan and I am from Bangladesh. Currently, I am a Ph.D. student in Computer Engineering at Northeastern University. Before that, I completed my master's in the Department of Electrical and Computer Engineering at Southern Illinois University Carbondale (2020) and I earned my Bachelor of Science in Electrical and Electronic Engineering from Bangladesh University of Engineering and Technology (BUET) in 2014. Currently, I am working as a Research Assistant in NUWiNS Lab under the supervision of Dr. Dimitrios Koutsonikolas. My research interest lies in the area of 5G mm-Wave Networking.
+
+#I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
+
+content:
+  - title: Publications # Title for the section
+    layout: text # Type of content section (list/text)
+    content: |
+      - An Open, Programmable, Multi-vendor 5G O-RAN Testbed with NVIDIA ARC and OpenAirInterface
+        __Imran Khan^__, __D Villa^__, Florian Kaltenberger, Nicholas Hedberg, Ruben Soares da Silva, Anupa Kelkar, Chris Dick, Stefano Basagni, Josep M Jornet, Tommaso Melodia, Michele Polese, Dimitrios Koutsonikolas.
+        [arXiv preprint arXiv:2310.17062]
+      - Performance of Cellular Networks on the Wheels.
+        __Imran Khan^__, Moinak Ghoshal^, Jonny Kong^, Phuc Dinh, Jiayi Meng, Y. Charlie Hu, Dimitrios Koutsonikolas.
+        [ACM IMC, 2023]
+      - Demo: NextG-up: a tool for measuring uplink performance of 5G networks 
+        **Imran Khan^**, Moinak Ghoshal^, Qiang Xu^, Z. Jonny Kong, Y. Charlie Hu, and Dimitrios Koutsonikolas. 
+        [ACM Mobisys, 2022]
+      - MuSher: An Agile Multipath-TCP Scheduler for Dual-Band 802.11ad/ac Wireless LANs S. Aggarwal, S. K. Saha, **Imran Khan**, R. Pathak, D. Koutsonikolas and J. Widmer.
+        [IEEE/ACM Transactions on Networking, 2022]
+      - An In-Depth Study of Uplink Performance of 5G mmWave Networks
+        Moinak Ghoshal, Z. Jonny Kong, Qiang Xu, Zixiao Lu, Shivang Aggarwal, **Imran Khan**, Yuanjie Li, Y. Charlie Hu, Dimitrios Koutsonikolas.
+        [ACM SIGCOMM 5G-MEMU, 2022]
+      - Multipath TCP in Smartphones Equipped with Millimeter Wave Radios
+        **Imran Khan**, Moinak Ghoshal, Shivang Aggarwal, Dimitrios Koutsonikolas, Joerg Widmer. [ACM WiNTECH, 2021]
+      - Efficient Bandwidth Aggregation with MPTCP for Connected Vehicles **Imran Khan**, K. Chen.
+        [IEEE Internet of Things, 2021]
+      - Bandwidth-need driven energy efficiency improvement of MPTCP users in wireless networks M. R. Palash, K. Chen, **Imran Khan**.
+        [IEEE Trans. Green Commun. Netw., 2019]
+      - Towards Efficient, Work-Conserving, and Fair Bandwidth Guarantee in Cloud Datacenters B. S. Ali, K. Chen and **Imran Khan**.
+        [IEEE Access, 2019]
+
+
+  - title: Experience # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: AT&T Labs, Inc.
+        link: https://about.att.com/sites/labs
+        # link_text: boringcompany.com
+        sub_title: Research Intern
+        caption: June 2020 - August 2020
+        # quote: >
+        #   Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+        description: | # this will include new lines to allow paragraphs
+            Investigated performnce of low-latency video streaming over cellular networks in a joint project with Facebook. The purpose of this study was to correlate RAN side KPIs with application layer metrics to enhance user Quality of Experience (QoE). 
+
+  - title: Education # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: Northeastern University
+        caption: 2020 - Present
+        sub_title: Ph.D. in Computer Engineering
+        # quote: >
+        #   Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+        description: | # this will include new lines to allow paragraphs
+          I am part of NuWINS lab and also affiliated with the Northeastern Institure for the Wireless Internet of Things (WIoT). As part of the WIoT I am involved in developing next generation cellular networks/testbeds. Besides, my other projects involve ensuring end to end performance, mobility, reliability and consistency of performance of mmWave cellular in current 5G. 
+      
+      - layout: left
+        title:  Southern Illinois University Carbondale
+        caption: 2018 - 2020
+        sub_title: Master's in Computer Engineering
+        # quote: >
+        #   Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+        description: | # this will include new lines to allow paragraphs
+          I was part of the Ubiquitous Networking & Computing lab where I was involved with investigating Multi-Path TCP (MPTCP) performance in heterogenous networks.
+
+      - layout: left
+        title:  Bangladesh University of Engineering and Technology (BUET)
+        caption: 2009 - 2014
+        sub_title: B.Sc. in Electrical and Electronics Engineering
+        # quote: >
+        #   Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+        description: | # this will include new lines to allow paragraphs
+               Bangladesh University of Engineering and Technology (BUET) is one of the top enginnering schools in Bangladesh.
+  
+  - title: Skills
+    layout: text
+    content: | # this will include new lines to allow paragraphs
+      - Python, C/C++, Android (Java/Kotlin), HTML, CSS
+
+  - title: Dataset | Software 
+    layout: text
+    content: | # this will include new lines to allow paragraphs
+      - [Dataset](https://github.com/NUWiNS/imc2023-cellular-network-performance-on-wheels-data){:target="_blank"}{:rel="noopener noreferrer"} for 5G network performance on the wheels. [ACM IMC 2023]
+      - Android app [NextG-UP](https://play.google.com/store/apps/details?id=com.nuwins.cellnetworkinfo&hl=en_US&gl=US){:target="_blank"}{:rel="noopener noreferrer"} app for a crowd-sourcing based measurement study of 5G uplink performance evolution.
+      - MPTCP [source code](https://github.com/NUWiNS/ROGII_MPTCP/tree/master}}){:target="_blank"}{:rel="noopener noreferrer"} for an ROG Phone 2, from our WiNTECH 2021 paper.
+      - MPTCP [source code](https://github.com/imranbuet63/proton_mptcp){:target="_blank"}{:rel="noopener noreferrer"} for Pixel-5 Phone.
+
+  - title: CV
+    layout: text
+    content: | # this will include new lines to allow paragraphs
+      - Here is my [CV]({{ imranbuet63.github.io }}/assets/IMRAN_CV_Academic.pdf).
+
+  - title: Awards and Professional Service
+    layout: text
+    content: | # this will include new lines to allow paragraphs
+      - Web-Chair IEEE LANMAN 2024
+      - TPC Member IEEE ICC 2024
+      - Web-Chair IEEE WoWMoM 2023
+      - Got selected for NSF Funded Student travel grant for Mobicom’2021
+      - Reviewer Globecom 2021
+      - Reviewer 5G-MEMU Sigcomm WorkShop 2021
+      - Got selected for NSF Funded POWDER Network and Wireless Week, Salt Lake City , Utah 2019
+
+    # Look at this cool image  
+    # ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
+
+# Footer
+footer_show_references: true
+# references_title: References on request (Override references text)
+
+# Build settings
+remote_theme: sproogen/resume-theme
+
+sass:
+  sass_dir: _sass
+  style: compressed
+
+plugins:
+ - jekyll-seo-tag
