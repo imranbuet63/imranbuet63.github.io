@@ -142,6 +142,7 @@ content:
   - title: Dataset | Software 
     layout: text
     content: | # this will include new lines to allow paragraphs
+      - [X5G](https://x5g.org){:target="_blank"}{:rel="noopener noreferrer"} : Our first ORAN-Compliant Multi-Vendor 5G testbed.
       - [Dataset](https://github.com/NUWiNS/imc2023-cellular-network-performance-on-wheels-data){:target="_blank"}{:rel="noopener noreferrer"} for 5G network performance on the wheels. [ACM IMC 2023]
       - Android app [NextG-UP](https://play.google.com/store/apps/details?id=com.nuwins.cellnetworkinfo&hl=en_US&gl=US){:target="_blank"}{:rel="noopener noreferrer"} app for a crowd-sourcing based measurement study of 5G uplink performance evolution.
       - MPTCP [source code](https://github.com/NUWiNS/ROGII_MPTCP/tree/master}}){:target="_blank"}{:rel="noopener noreferrer"} for an ROG Phone 2, from our WiNTECH 2021 paper.
@@ -156,7 +157,8 @@ content:
     layout: text
     content: | # this will include new lines to allow paragraphs
       - Web-Chair IEEE LANMAN 2024
-      - TPC Member IEEE ICC 2024
+      - TPC Member IEEE WCNC 2024
+      - Reviewer IEE ICC 2024
       - Web-Chair IEEE WoWMoM 2023
       - Got selected for NSF Funded Student travel grant for Mobicom’2021
       - Reviewer Globecom 2021
