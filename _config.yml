@@ -56,7 +56,7 @@ about_content: | # this will include new lines to allow paragraphs
 
 content:
   - title: Publications # Title for the section
-    layout: list # Type of content section (list/text)
+    layout: text # Type of content section (list/text)
     content: |
       - An Open, Programmable, Multi-vendor 5G O-RAN Testbed with NVIDIA ARC and OpenAirInterface.
         __Imran Khan^__, __D Villa^__, Florian Kaltenberger, Nicholas Hedberg, Ruben Soares da Silva, Anupa Kelkar, Chris Dick, Stefano Basagni, Josep M Jornet, Tommaso Melodia, Michele Polese, Dimitrios Koutsonikolas.
