@@ -58,27 +58,35 @@ content:
   - title: Publications # Title for the section
     layout: text # Type of content section (list/text)
     content: |
-      - An Open, Programmable, Multi-vendor 5G O-RAN Testbed with NVIDIA ARC and OpenAirInterface
+      - An Open, Programmable, Multi-vendor 5G O-RAN Testbed with NVIDIA ARC and OpenAirInterface.
         __Imran Khan^__, __D Villa^__, Florian Kaltenberger, Nicholas Hedberg, Ruben Soares da Silva, Anupa Kelkar, Chris Dick, Stefano Basagni, Josep M Jornet, Tommaso Melodia, Michele Polese, Dimitrios Koutsonikolas.
-        [arXiv preprint arXiv:2310.17062]
+        [IEEE INFOCOM NG-OPERA 2024]
+      - Can 5G mmWave Enable Edge-Assisted Real-Time Object Detection for Augmented Reality?
+        Moinak Ghoshal, Z Jonny Kong, Qiang Xu, Zixiao Lu, Shivang Aggarwal, **Imran Khan**, Jiayi Meng, Yuanjie Li, Y Charlie Hu, Dimitrios Koutsonikolas.
+        [IEEE MASCOTS 2023]
       - Performance of Cellular Networks on the Wheels.
         __Imran Khan^__, Moinak Ghoshal^, Jonny Kong^, Phuc Dinh, Jiayi Meng, Y. Charlie Hu, Dimitrios Koutsonikolas.
         [ACM IMC, 2023]
-      - Demo: NextG-up: a tool for measuring uplink performance of 5G networks 
+      - Demo: NextG-up: a tool for measuring uplink performance of 5G networks. 
         **Imran Khan^**, Moinak Ghoshal^, Qiang Xu^, Z. Jonny Kong, Y. Charlie Hu, and Dimitrios Koutsonikolas. 
         [ACM Mobisys, 2022]
-      - MuSher: An Agile Multipath-TCP Scheduler for Dual-Band 802.11ad/ac Wireless LANs S. Aggarwal, S. K. Saha, **Imran Khan**, R. Pathak, D. Koutsonikolas and J. Widmer.
+      - MuSher: An Agile Multipath-TCP Scheduler for Dual-Band 802.11ad/ac Wireless LANs. 
+        S. Aggarwal, S. K. Saha, **Imran Khan**, R. Pathak, D. Koutsonikolas and J. Widmer.
         [IEEE/ACM Transactions on Networking, 2022]
       - An In-Depth Study of Uplink Performance of 5G mmWave Networks
         Moinak Ghoshal, Z. Jonny Kong, Qiang Xu, Zixiao Lu, Shivang Aggarwal, **Imran Khan**, Yuanjie Li, Y. Charlie Hu, Dimitrios Koutsonikolas.
         [ACM SIGCOMM 5G-MEMU, 2022]
-      - Multipath TCP in Smartphones Equipped with Millimeter Wave Radios
-        **Imran Khan**, Moinak Ghoshal, Shivang Aggarwal, Dimitrios Koutsonikolas, Joerg Widmer. [ACM WiNTECH, 2021]
-      - Efficient Bandwidth Aggregation with MPTCP for Connected Vehicles **Imran Khan**, K. Chen.
+      - Multipath TCP in Smartphones Equipped with Millimeter Wave Radios.
+        **Imran Khan**, Moinak Ghoshal, Shivang Aggarwal, Dimitrios Koutsonikolas, Joerg Widmer. 
+        [ACM WiNTECH, 2021]
+      - Efficient Bandwidth Aggregation with MPTCP for Connected Vehicles. 
+        **Imran Khan**, K. Chen.
         [IEEE Internet of Things, 2021]
-      - Bandwidth-need driven energy efficiency improvement of MPTCP users in wireless networks M. R. Palash, K. Chen, **Imran Khan**.
+      - Bandwidth-need driven energy efficiency improvement of MPTCP users in wireless networks.
+        M. R. Palash, K. Chen, **Imran Khan**.
         [IEEE Trans. Green Commun. Netw., 2019]
-      - Towards Efficient, Work-Conserving, and Fair Bandwidth Guarantee in Cloud Datacenters B. S. Ali, K. Chen and **Imran Khan**.
+      - Towards Efficient, Work-Conserving, and Fair Bandwidth Guarantee in Cloud Datacenters.
+        B. S. Ali, K. Chen and **Imran Khan**.
         [IEEE Access, 2019]
 
 
