@@ -34,7 +34,7 @@ linkedin_username: imrankhan063
 # Additional icon links
 additional_links:
 - title: Google Scholar
-  icon: fas fa-globe
+  icon: fa-brands fa-google-scholar
   url: https://scholar.google.com/citations?user=QqftVlIAAAAJ&hl=en
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
