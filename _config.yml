@@ -58,7 +58,7 @@ content:
   - title: Publications # Title for the section
     layout: text # Type of content section (list/text)
     content: |
-      - <strong>An Open, Programmable, Multi-vendor 5G O-RAN Testbed with NVIDIA ARC and OpenAirInterface.</strong>
+      - An Open, Programmable, Multi-vendor 5G O-RAN Testbed with NVIDIA ARC and OpenAirInterface.
         <br>__Imran Khan^__, __D Villa^__, Florian Kaltenberger, Nicholas Hedberg, Ruben Soares da Silva, Anupa Kelkar, Chris Dick, Stefano Basagni, Josep M Jornet, Tommaso Melodia, Michele Polese, Dimitrios Koutsonikolas.
         <br><em>[IEEE INFOCOM NG-OPERA 2024]</em>
       - <strong>Can 5G mmWave Enable Edge-Assisted Real-Time Object Detection for Augmented Reality?</strong>
