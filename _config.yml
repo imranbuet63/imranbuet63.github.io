@@ -156,6 +156,7 @@ content:
   - title: Awards and Professional Service
     layout: text
     content: | # this will include new lines to allow paragraphs
+      - Reviewer Comuter Networks 2024
       - Web-Chair IEEE LANMAN 2024
       - TPC Member IEEE WCNC 2024
       - Reviewer IEEE ICC 2024
