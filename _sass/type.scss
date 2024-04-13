@@ -1,8 +1,10 @@
 body {
-  color: #0e0e0e;
-  font-family: Fira Sans,sans-serif; //Verdana, sans-serif //Fira Sans,sans-serif //Georgia, serif
+  color: #333;
+  font-family: Roboto, sans-serif;
+  // color: #0e0e0e;
+  // font-family: Fira Sans,sans-serif; //Verdana, sans-serif //Fira Sans,sans-serif //Georgia, serif
   font-feature-settings: "kern", "liga", "pnum";
-  font-size: 1.5rem;
+  font-size: 1rem;
   line-height: 1.5;
 
   @media print {
@@ -16,19 +18,19 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: Fira Sans,sans-serif;
+  font-family: Roboto, sans-serif;
   font-size: 1rem;
   line-height: 1.2;
   margin: 0 0 0.75rem;
 }
 
 p {
-  font-family: Fira Sans,sans-serif;
+  font-family:  Roboto, sans-serif;
   font-size: 1rem;
   margin: 0 0 0.75rem; }
 
 a {
-  font-family: Fira Sans,sans-serif;
+  font-family:  Roboto, sans-serif;
   color: #1a0ba5;
   font-weight: bold;
   transition: color 150ms ease;
@@ -40,24 +42,24 @@ color: #355e98;
 }
 
 h1 {
-  font-family: Fira Sans,sans-serif;
+  // font-family: Fira Sans,sans-serif;
   font-size: 4rem;
-  margin-bottom: 0.4rem;
+  margin-bottom: 0.1rem;
   font-weight: 500;
 }
 
 h2 {
-  font-family: Fira Sans,sans-serif;
+  // font-family: Fira Sans,sans-serif;
   font-weight: 300;
   font-size: 2rem;
 }
 
 h3 {
-  font-family: Fira Sans,sans-serif;
-  font-weight: 520;
+  // font-family: Fira Sans,sans-serif;
+  font-weight: 300; //520
   font-size: 3rem;
   text-align: center;
-  border-bottom: dashed 2px #371919;
+  border-bottom: dashed 2px #CCCCCC; //#371919
   padding-bottom: 10px;
   margin-bottom:40px;
 
@@ -67,20 +69,20 @@ h3 {
 }
 
 h4 {
-  font-family: Fira Sans,sans-serif;
+  //font-family: Fira Sans,sans-serif;
   font-weight: 300;
   font-size:2.5rem;
   margin-bottom:3px;
 }
 
 p, ul {
-  font-family: Fira Sans,sans-serif;
+  //font-family: Fira Sans,sans-serif;
   font-size: 1.6rem;
   text-align: justify;
 }
 
 a i {
-  font-family: Fira Sans,sans-serif;
+  //font-family: Fira Sans,sans-serif;
   font-size:1.6rem;
 }
 
