@@ -58,6 +58,9 @@ content:
   - title: Publications # Title for the section
     layout: text # Type of content section (list/text)
     content: |
+      -strong>How Mature is 5G Deployment? A Cross-Sectional, Year-Long Study of 5G Uplink Performance</strong>
+        <br>__Imran Khan__, Moinak Ghoshal,  Dimitrios Koutsonikolas.
+        <br><em><mark>IFIP Networking 2024</mark></em>
       - <strong>An Open, Programmable, Multi-vendor 5G O-RAN Testbed with NVIDIA ARC and OpenAirInterface.</strong>
         <br>__Imran Khan^__, D Villa^, Florian Kaltenberger, Nicholas Hedberg, Ruben Soares da Silva, Anupa Kelkar, Chris Dick, Stefano Basagni, Josep M Jornet, Tommaso Melodia, Michele Polese, Dimitrios Koutsonikolas.
         <br><em><mark>[IEEE INFOCOM NG-OPERA 2024]</mark></em>
