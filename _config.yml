@@ -59,7 +59,7 @@ content:
     layout: text # Type of content section (list/text)
     content: |
       - <strong>On the Predictability of Fine-grained Cellular Network Throughput using Machine Learning Models	</strong>
-        <br>__Omar Basit^__; __Phuc Dinh^__; __Imran Khan^__; __Z. Jonny Kong^__; Y. Charlie Hu; Dimitrios Koutsonikolas; Myungjin Lee; Chaoyue Liu 
+        <br>Omar Basit^,  Phuc Dinh^,  __Imran Khan^__, Z. Jonny Kong^, Y. Charlie Hu, Dimitrios Koutsonikolas, Myungjin Lee, Chaoyue Liu 
         <br><em><mark>IEEE MASS 2024</mark></em>
       - <strong>How Mature is 5G Deployment? A Cross-Sectional, Year-Long Study of 5G Uplink Performance</strong>
         <br>__Imran Khan__, Moinak Ghoshal, Joana Angjo†, Sigrid Dimce†, Mushahid Hussain, Paniz Parastar,
