@@ -62,9 +62,9 @@ content:
         <br>Omar Basit^,  Phuc Dinh^,  __Imran Khan^__, Z. Jonny Kong^, Y. Charlie Hu, Dimitrios Koutsonikolas, Myungjin Lee, Chaoyue Liu 
         <br><em><mark>IEEE MASS 2024</mark></em>
       - <strong>How Mature is 5G Deployment? A Cross-Sectional, Year-Long Study of 5G Uplink Performance</strong>
-        <br>__Imran Khan__, Moinak Ghoshal, Joana Angjo†, Sigrid Dimce†, Mushahid Hussain, Paniz Parastar,
+        <br>__Imran Khan__, Moinak Ghoshal, Joana Angjo, Sigrid Dimce, Mushahid Hussain, Paniz Parastar,
         Yenchia Yu, Claudio Fiandrino, Charalampos Orfanidis, Shivang Aggarwal, Ana C Aguiar,
-        Ozgu Alay, Carla F. Chiasserini, Falko Dressler†, Y. Charlie Hu, Steven Y. Kox, Dimitrios Koutsonikolas, Joerg Widmer
+        Ozgu Alay, Carla F. Chiasserini, Falko Dressler, Y. Charlie Hu, Steven Y. Kox, Dimitrios Koutsonikolas, Joerg Widmer
         <br><em><mark>IFIP Networking 2024</mark></em>
       - <strong>An Open, Programmable, Multi-vendor 5G O-RAN Testbed with NVIDIA ARC and OpenAirInterface.</strong>
         <br>__Imran Khan^__, D Villa^, Florian Kaltenberger, Nicholas Hedberg, Ruben Soares da Silva, Anupa Kelkar, Chris Dick, Stefano Basagni, Josep M Jornet, Tommaso Melodia, Michele Polese, Dimitrios Koutsonikolas.
@@ -167,6 +167,7 @@ content:
   - title: Awards and Professional Service
     layout: text
     content: | # this will include new lines to allow paragraphs
+      - Reviewer Internet of Things 2024
       - Reviewer Computer Networks 2024
       - Web-Chair IEEE LANMAN 2024
       - TPC Member IEEE WCNC 2024
