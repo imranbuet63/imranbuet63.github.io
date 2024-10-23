@@ -167,7 +167,7 @@ content:
   - title: CV
     layout: text
     content: | # this will include new lines to allow paragraphs
-      - Here is my [CV]({{ imranbuet63.github.io }}/assets/IMRAN_CV_Academic.pdf).
+      - Here is my [CV](/assets/IMRAN_CV_Academic.pdf).
 
   - title: Awards and Professional Service
     layout: text
