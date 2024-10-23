@@ -156,6 +156,8 @@ content:
   - title: Dataset | Software 
     layout: text
     content: | # this will include new lines to allow paragraphs
+      - [Dataset](https://github.com/NUWiNS/ifip2024_year_long_5G_uplink_study){:target="_blank"}{:rel="noopener noreferrer"} : for Cross-Sectional, Year-Long Study of 5G Uplink Performance. [IFIP 2024]
+      - [Dataset](https://github.com/NUWiNS/MASS_2024_Throughput_Prediction){:target="_blank"}{:rel="noopener noreferrer"} : for Predictability of Fine-grained Cellular Network Throughput using Machine Learning Models. [IEEE MASS 2024]
       - [X5G](https://x5g.org){:target="_blank"}{:rel="noopener noreferrer"} : Our first ORAN-Compliant Multi-Vendor 5G testbed.
       - [Dataset](https://github.com/NUWiNS/imc2023-cellular-network-performance-on-wheels-data){:target="_blank"}{:rel="noopener noreferrer"} for 5G network performance on the wheels. [ACM IMC 2023]
       - Android app [NextG-UP](https://dl.acm.org/doi/pdf/10.1145/3498361.3539694){:target="_blank"}{:rel="noopener noreferrer"} app for a crowd-sourcing based measurement study of 5G uplink performance evolution.
