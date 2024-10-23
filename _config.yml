@@ -58,6 +58,9 @@ content:
   - title: Publications # Title for the section
     layout: text # Type of content section (list/text)
     content: |
+      - <strong>X5G: An Open, Programmable, Multi-vendor, End-to-end, Private 5G O-RAN Testbed with NVIDIA ARC and OpenAirInterface.</strong>
+        <br>__Imran Khan^__, D Villa^, Florian Kaltenberger, Nicholas Hedberg, Ruben Soares da Silva, Stefano Maxenti, Leonardo Bonati, Anupa Kelkar, Chris Dick, Eduardo Baena,  Josep M Jornet, Tommaso Melodia, Michele Polese, Dimitrios Koutsonikolas.
+        <br><em><mark>arXiv preprint arXiv:2406.15935</mark></em>
       - <strong>On the Predictability of Fine-grained Cellular Network Throughput using Machine Learning Models	</strong>
         <br>Omar Basit^,  Phuc Dinh^,  __Imran Khan^__, Z. Jonny Kong^, Y. Charlie Hu, Dimitrios Koutsonikolas, Myungjin Lee, Chaoyue Liu 
         <br><em><mark>IEEE MASS 2024</mark></em>
