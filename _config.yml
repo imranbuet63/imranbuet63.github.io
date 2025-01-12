@@ -59,16 +59,16 @@ content:
     layout: text # Type of content section (list/text)
     content: |
     
-      - <strong>5G Metamorphosis: A Longitudinal Study of 5G Performance from the Beginning</strong>
+      - <strong>5G Metamorphosis: A Longitudinal Study of 5G Performance from the Beginning.</strong>
         <br> __Imran Khan^__, Omar Basit^,  Moinak Ghoshal, Y. Charlie Hu, Dimitrios Koutsonikolas.
         <br><em><mark>Under Submission</mark></em>
       - <strong>X5G: An Open, Programmable, Multi-vendor, End-to-end, Private 5G O-RAN Testbed with NVIDIA ARC and OpenAirInterface.</strong>
         <br> D Villa^, __Imran Khan^__, Florian Kaltenberger, Nicholas Hedberg, Ruben Soares da Silva, Stefano Maxenti, Leonardo Bonati, Anupa Kelkar, Chris Dick, Eduardo Baena,  Josep M Jornet, Tommaso Melodia, Michele Polese, Dimitrios Koutsonikolas.
         <br><em><mark>arXiv preprint arXiv:2406.15935</mark></em>
-      - <strong>On the Predictability of Fine-grained Cellular Network Throughput using Machine Learning Models	</strong>
+      - <strong>On the Predictability of Fine-grained Cellular Network Throughput using Machine Learning Models.</strong>
         <br>Omar Basit^,  Phuc Dinh^,  __Imran Khan^__, Z. Jonny Kong^, Y. Charlie Hu, Dimitrios Koutsonikolas, Myungjin Lee, Chaoyue Liu 
         <br><em><mark>IEEE MASS 2024</mark></em>
-      - <strong>How Mature is 5G Deployment? A Cross-Sectional, Year-Long Study of 5G Uplink Performance</strong>
+      - <strong>How Mature is 5G Deployment? A Cross-Sectional, Year-Long Study of 5G Uplink Performance.</strong>
         <br>__Imran Khan__, Moinak Ghoshal, Joana Angjo, Sigrid Dimce, Mushahid Hussain, Paniz Parastar,
         Yenchia Yu, Claudio Fiandrino, Charalampos Orfanidis, Shivang Aggarwal, Ana C Aguiar,
         Ozgu Alay, Carla F. Chiasserini, Falko Dressler, Y. Charlie Hu, Steven Y. Kox, Dimitrios Koutsonikolas, Joerg Widmer
@@ -91,7 +91,7 @@ content:
       - <strong>MuSher: An Agile Multipath-TCP Scheduler for Dual-Band 802.11ad/ac Wireless LANs.</strong> 
         <br>S. Aggarwal, S. K. Saha, **Imran Khan**, R. Pathak, D. Koutsonikolas and J. Widmer.
         <br><em><mark>IEEE/ACM Transactions on Networking, 2022</mark></em>
-      - <strong>An In-Depth Study of Uplink Performance of 5G mmWave Networks</strong>
+      - <strong>An In-Depth Study of Uplink Performance of 5G mmWave Networks.</strong>
         <br>Moinak Ghoshal, Z. Jonny Kong, Qiang Xu, Zixiao Lu, Shivang Aggarwal, **Imran Khan**, Yuanjie Li, Y. Charlie Hu, Dimitrios Koutsonikolas.
         <br><em><mark>ACM SIGCOMM 5G-MEMU, 2022</mark></em>
       - <strong>Multipath TCP in Smartphones Equipped with Millimeter Wave Radios.</strong>
