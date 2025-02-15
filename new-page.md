@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: new_page
 title: New Page
 ---
 
