@@ -200,3 +200,9 @@ sass:
 
 plugins:
  - jekyll-seo-tag
+
+navigation:
+  - title: Home
+    url: /
+  - title: New Page
+    url: /new-page
