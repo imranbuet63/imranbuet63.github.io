@@ -58,7 +58,9 @@ content:
   - title: Publications # Title for the section
     layout: text # Type of content section (list/text)
     content: |
-    
+      - <strong>Exploring the 5G Digital Divide in the Non-Contiguous US: LEO Satellites to the Rescue?</strong>
+        <br> Sizhe Wang, Moinak Ghoshal, Yufei Feng, __Imran Khan__, Phuc Dinh, Omar Basit, Zhekun Yu, Y Charlie Hu, Dimitrios Koutsonikolas.
+        <br><em><mark>SIGMETRICS 2025</mark></em>
       - <strong>A First Large-Scale Study of Operational 5G Standalone Networks.</strong>
         <br> Moinak Ghoshal, Omar Basit, Sizhe Wang, Phuc Dinh, __Imran Khan__, Yufei Feng, Zhekun Yu, Y Charlie Hu, Dimitrios Koutsonikolas.
         <br><em><mark>CONEXT 2025</mark></em>
