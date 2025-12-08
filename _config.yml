@@ -59,6 +59,12 @@ content:
     layout: text # Type of content section (list/text)
     content: |
     
+      - <strong>A First Large-Scale Study of Operational 5G Standalone Networks.</strong>
+        <br> Moinak Ghoshal, Omar Basit, Sizhe Wang, Phuc Dinh, __Imran Khan__, Yufei Feng, Zhekun Yu, Y Charlie Hu, Dimitrios Koutsonikolas.
+        <br><em><mark>CONEXT 2025</mark></em>
+      - <strong>Replication: Performance of Cellular Networks on the Wheels.</strong>
+        <br> M Ghoshal, O Basit, __I Khan__, ZJ Kong, S Wang, Y Feng, P Dinh, YC Hu, Dimitrios Koutsonikolas.
+        <br><em><mark>IMC 2025</mark></em>
       - <strong>5G Metamorphosis: A Longitudinal Study of 5G Performance from the Beginning.</strong>
         <br> __Imran Khan^__, Omar Basit^, Y. Charlie Hu, Dimitrios Koutsonikolas.
         <br><em><mark>IMC 2025</mark></em>
