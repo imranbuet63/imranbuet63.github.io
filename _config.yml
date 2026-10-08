@@ -133,7 +133,7 @@ content:
   - title: CV
     layout: text
     content: | # this will include new lines to allow paragraphs
-      - Here is my [CV](/assets/IMRAN_CV_Research.pdf).
+      - Here is my [CV](/assets/Imran_CV_Research.pdf).
 
   - title: Awards and Professional Service
     layout: text
