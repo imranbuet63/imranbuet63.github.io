@@ -1,0 +1,124 @@
+# Generated from _data/*.bib by scripts/generate_publications.rb. Do not edit manually.
+---
+- title: A Cross-Country Measurement Study of Inter-cell Interference in Cellular
+    Networks PDF
+  venue: ACM CoNEXT
+  authors: Zhekun Yu, Yufei Feng, Moinak Ghoshal, Omar Basit, <strong>Imran Khan</strong>,
+    Z. Jonny Kong, Sizhe Wang, Phuc Dinh, Y. Charlie Hu, Dimitrios Koutsonikolas
+  year: 2026
+- title: 'Exploring the 5G Digital Divide in the Non-Contiguous US: LEOSatellites
+    to the Rescue?'
+  venue: ACM SIGMETRICS
+  authors: Sizhe Wang, Moinak Ghoshal, Yufei Feng, <strong>Imran Khan</strong>, Phuc
+    Dinh, Omar Basit, Zhekun Yu, Y. Charlie Hu, Dimitrios Koutsonikolas
+  year: 2026
+- title: 'Too Many Reports, Too Few Handovers: A Large-Scale Study of Configuration
+    Inefficiencies in Operational 5G Networks'
+  venue: ACM CoNEXT
+  authors: Moinak Ghoshal, <strong>Imran Khan</strong>, Phuc Dinh, Z. Jonny Kong,
+    Omar Basit, Sizhe Wang, Yufei Feng, Y. Charlie Hu, Dimitrios Koutsonikolas
+  year: 2026
+- title: '5G Metamorphosis: A Longitudinal Study of 5G Performance from the Beginning'
+  venue: ACM IMC
+  authors: "<strong>Imran Khan</strong>*, Omar Basit*, Moinak Ghoshal, Y. C. Hu, Dimitrios
+    Koutsonikolas"
+  year: 2025
+- title: A First Large-Scale Study of Operational 5G Standalone Networks.
+  venue: ACM CoNEXT
+  authors: Moinak Ghoshal, Omar Basit, Sizhe Wang, Phuc Dinh, <strong>Imran Khan</strong>,
+    Yufei Feng, Zhekun Yu, Y. Charlie Hu, Dimitrios Koutsonikolas
+  year: 2025
+- title: How mature is 5G deployment? A cross-sectional, year-long study of 5G uplink
+    performance
+  venue: Computer Communications
+  authors: "<strong>Imran Khan</strong>, Moinak Ghoshal, Joana Angjo, Sigrid Dimce,
+    Mushahid Hussain, Paniz Parastar, Yenchia Yu, Xueting Deng, Sumit Hawal, Shirui
+    Huang, Ameya Rane, Yin Wang, Claudio Fiandrino, Charalampos Orfanidis, Shivang
+    Aggarwal, Ana C. Aguiar, Ozgu Alay, Carla Fabiana Chiasserini, Falko Dressler,
+    Y. Charlie Hu, Steven Y. Ko, Dimitrios Koutsonikolas, Joerg Widmer"
+  year: 2025
+- title: 'Replication: Performance of Cellular Networks on the Wheels'
+  venue: ACM IMC
+  authors: Moinak Ghoshal, Omar Basit, <strong>Imran Khan</strong>, Z. Jonny Kong,
+    Sizhe Wang, Yufei Feng, Phuc Dinh, Y. Charlie Hu, Dimitrios Koutsonikolas
+  year: 2025
+- title: Root Cause Analysis of Cellular Network Throughput Degradations under Vehicular
+    Mobility
+  venue: IEEE MASS
+  authors: Eduardo Baena, Zihan Xu, Moinak Ghoshal, <strong>Imran Khan</strong>, Phuc
+    Dinh, Z. Jonny Kong, Y. Charlie Hu, Dimitrios Koutsonikolas
+  year: 2025
+- title: 'X5G: An Open, Programmable, Multi-Vendor, End-to-End, Private 5G O-RAN Testbed
+    With NVIDIA ARC and OpenAirInterface'
+  venue: IEEE Transactions on Mobile Computing
+  authors: Davide Villa*, <strong>Imran Khan</strong>*, Florian Kaltenberger, Nicholas
+    Hedberg, Rúben Soares da Silva, Stefano Maxenti, Leonardo Bonati, Anupa Kelkar,
+    Chris Dick, Eduardo Baena, Josep M. Jornet, Tommaso Melodia, Michele Polese, Dimitrios
+    Koutsonikolas
+  year: 2025
+- title: An Experimental Study of Low-Latency Video Streaming over 5G
+  venue: IEEE MeditCom
+  authors: "<strong>Imran Khan</strong>, Tuyen X Tran, Matti Hiltunen, Theodore Karagioules,
+    Dimitrios Koutsonikolas"
+  year: 2024
+- title: An Open, Programmable, Multi-Vendor 5G O-RAN Testbed with NVIDIA ARC and
+    OpenAirInterface
+  venue: IEEE INFOCOM 2024 NG-0pera
+  authors: Davide Villa*, <strong>Imran Khan</strong>*, Florian Kaltenberger, Nicholas
+    Hedberg, Rúben Soares Da Silva, Anupa Kelkar, Chris Dick, Stefano Basagni, Josep
+    M. Jornet, Tommaso Melodia, Michele Polese, Dimitrios Koutsonikolas
+  year: 2024
+- title: How Mature is 5G Deployment? A Cross-Sectional, Year-Long Study of 5G Uplink
+    Performance
+  venue: IFIP/IEEE Networking
+  authors: "<strong>Imran Khan</strong>, Moinak Ghoshal, Joana Angjo, Sigrid Dimce,
+    Mushahid Hussain, Paniz Parastar, Yenchia Yu, Claudio Fiandrino, Charalampos Orfanidis,
+    Shivang Aggarwal, Ana C. Aguiar, Ozgu Alay, Carla F. Chiasserini, Falko Dressler,
+    Y. Charlie Hu, Steven Y. Ko, Dimitrios Koutsonikolas, Joerg Widmer"
+  year: 2024
+- title: On the Predictability of Fine-grained Cellular Network Throughput using Machine
+    Learning Models
+  venue: IEEE MASS
+  authors: "<strong>Imran Khan</strong>*, Omar Basit*, Phuc Dinh*, Z. Jonny Kong*,
+    Y. Charlie Hu, Dimitrios Koutsonikolas, Myungjin Lee, Chaoyue Liu"
+  year: 2024
+- title: "[Demo] An Open, Programmable, Multi-Vendor 5G O-RAN Testbed with NVIDIA
+    ARC and OpenAirInterface"
+  venue: ACM WiNTECH
+  authors: Davide Villa, <strong>Imran Khan</strong>, Florian Kaltenberger, Nicholas
+    Hedberg, Ruben Soares Da Silva, Anupa Kelkar, Chris Dick, Stefano Basagni, Josep
+    M. Jornet, Tommaso Melodia, Michele Polese, Dimitrios Koutsonikolas
+  year: 2024
+- title: Can 5G mmWave Enable Edge-Assisted Real-Time Object Detection for Augmented
+    Reality?
+  venue: IEEE MASCOTS
+  authors: Moinak Ghoshal, Z. Jonny Kong, Qiang Xu, Zixiao Lu, Shivang Aggarwal, <strong>Imran
+    Khan</strong>, Jiayi Meng, Yuanjie Li, Y. Charlie Hu, Dimitrios Koutsonikolas
+  year: 2023
+- title: Performance of Cellular Networks on the Wheels
+  venue: ACM IMC
+  authors: "<strong>Imran Khan</strong>*, Moinak Ghoshal*, Z. Jonny Kong*, Phuc Dinh*,
+    Jiayi Meng, Y. Charlie Hu, Dimitrios Koutsonikolas"
+  year: 2023
+- title: An In-Depth Study of Uplink Performance of 5G mmWave Networks
+  venue: ACM SIGCOMM 5G-MeMU Workshop
+  authors: Moinak Ghoshal, Z. Jonny Kong, Qiang Xu, Zixiao Lu, Shivang Aggarwal, <strong>Imran
+    Khan</strong>, Yuanjie Li, Y. Charlie Hu, Dimitrios Koutsonikolas
+  year: 2022
+- title: 'MuSher: An Agile Multipath-TCP Scheduler for Dual-Band 802.11ad/ac Wireless
+    LANs'
+  venue: IEEE/ACM Transactions on Networking
+  authors: Shivang Aggarwal, Swetank Kumar Saha, <strong>Imran Khan</strong>, Rohan
+    Pathak, Dimitrios Koutsonikolas, Joerg Widmer
+  year: 2022
+- title: "[Demo] NextG-UP: A Longitudinal and Cross-Sectional Study of Uplink Performance
+    of 5G Networks"
+  venue: ACM MobiCom
+  authors: Moinak Ghoshal, <strong>Imran Khan</strong>, Qiang Xu, Z. Jonny Kong, Y.
+    Charlie Hu, Dimitrios Koutsonikolas
+  year: 2022
+- title: Multipath TCP in Smartphones Equipped with Millimeter Wave Radios
+  venue: ACM WiNTECH '21
+  authors: "<strong>Imran Khan</strong>, Moinak Ghoshal, Shivang Aggarwal, Joerg Widmer,
+    Dimitrios Koutsonikolas"
+  year: 2021

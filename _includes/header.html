@@ -1,7 +1,17 @@
 <div class="container header-container">
   <div class="row">
     <div class="col-xs-12 col-sm-6 col-md-6 col-lg-8 header-left">
-      <h1>{{ site.name | escape }}</h1>
+      <h1 class="name-with-signal">
+        {{ site.name | escape }}
+        <span class="cell-tower-icon" role="img" aria-label="Cellular signal">
+          <svg viewBox="0 0 48 52" aria-hidden="true" focusable="false">
+            <path class="signal-arc signal-arc-inner" d="M16 15c-7 6-7 16 0 22M32 15c7 6 7 16 0 22" />
+            <path class="signal-arc signal-arc-outer" d="M10 9C-1 19-1 34 10 44M38 9c11 10 11 25 0 35" />
+            <circle class="tower-node" cx="24" cy="16" r="2.5" />
+            <path class="tower-mast" d="M24 19 15 49h18L24 19ZM18 39h12M20 31h8" />
+          </svg>
+        </span>
+      </h1>
       <h2>{{ site.title | escape }}</h2>
     </div>
     <div class="col-xs-12 col-sm-6 col-md-6 col-lg-4 header-right">
@@ -109,12 +119,12 @@
       {%- assign email1 = site.email1 | default: site.email -%}
       {%- if email1 -%}
         <p>
-          {{ site.email1_title | default: site.email_title | default: "Email" }}: <a href="mailto:{{ email1 }}" target="_blank">{{ email1 | escape }}</a>
+          <i class="fas fa-envelope contact-email-icon" aria-hidden="true"></i><span class="sr-only">Email:</span> <a href="mailto:{{ email1 }}" target="_blank">{{ email1 | escape }}</a>
         </p>
       {%- endif -%}
       {%- if site.email2 -%}
         <p>
-          {{ site.email2_title | default: "Email" }}: <a href="mailto:{{ site.email2 }}" target="_blank">{{ site.email2 | escape }}</a>
+          <i class="fas fa-envelope contact-email-icon" aria-hidden="true"></i><span class="sr-only">Email:</span> <a href="mailto:{{ site.email2 }}" target="_blank">{{ site.email2 | escape }}</a>
         </p>
       {%- endif -%}
       {%- if site.phone -%}

@@ -7,12 +7,12 @@ version: 2
 
 # Personal info
 name: Imran Khan
-title: Ph.D. Candidate | Research Assistant 
+title: Ph.D. | Researcher 
 
 # title: Boston, Massachussets
-email1: imranbuet63@gmail.com
-email2: khan.i@northeastern.edu
-website: imranbuet63.github.io
+email1: khan.i@northeastern.edu
+email2: imranbuet63@gmail.com
+# website: imranbuet63.github.io
 
 # Dark Mode (true/false/never)
 darkmode: never
@@ -48,101 +48,26 @@ additional_links:
 # google_analytics: "UA-00000000-0"
 
 # About Section
-# about_title: About Me
+about_title: Research Vision
 about_profile_image: images/imran_new.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi Everyone, I am Imran Khan and I am from Bangladesh. I completed my Ph.D. in Computer Engineering at Northeastern University. Before that, I completed my master's in the Department of Electrical and Computer Engineering at Southern Illinois University Carbondale (2020) and I earned my Bachelor of Science in Electrical and Electronic Engineering from Bangladesh University of Engineering and Technology (BUET). My research interest involves ensuring end-to-end performance, mobility, and reliablity in Wireless (WiFi/5G+) networks.
+  My research vision is to make cellular networks predictable, measurable, and controllable to enable reliable next-generation latency-sensitive applications, including AR/VR, cloud services, and connected autonomy. I combine large-scale real-world measurements, cross-layer performance analysis, and programmable 5G/6G experimentation to understand and address challenges in network reliability, latency, and performance. My goal is to develop lightweight, standards-compliant, and practical solutions that leverage AI-driven analytics and closed-loop network control to improve performance, energy efficiency, and reliability in real-world deployments.
 
 #I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
 
 content:
-  - title: Publications # Title for the section
-    layout: text # Type of content section (list/text)
-    content: |
-      - <strong>Exploring the 5G Digital Divide in the Non-Contiguous US: LEO Satellites to the Rescue?</strong>
-        <br> Sizhe Wang, Moinak Ghoshal, Yufei Feng, __Imran Khan__, Phuc Dinh, Omar Basit, Zhekun Yu, Y Charlie Hu, Dimitrios Koutsonikolas.
-        <br><em><mark>SIGMETRICS 2025</mark></em>
-      - <strong>A First Large-Scale Study of Operational 5G Standalone Networks.</strong>
-        <br> Moinak Ghoshal, Omar Basit, Sizhe Wang, Phuc Dinh, __Imran Khan__, Yufei Feng, Zhekun Yu, Y Charlie Hu, Dimitrios Koutsonikolas.
-        <br><em><mark>CONEXT 2025</mark></em>
-      - <strong>Replication: Performance of Cellular Networks on the Wheels.</strong>
-        <br> M Ghoshal, O Basit, __I Khan__, ZJ Kong, S Wang, Y Feng, P Dinh, YC Hu, Dimitrios Koutsonikolas.
-        <br><em><mark>IMC 2025</mark></em>
-      - <strong>5G Metamorphosis: A Longitudinal Study of 5G Performance from the Beginning.</strong>
-        <br> __Imran Khan^__, Omar Basit^, Y. Charlie Hu, Dimitrios Koutsonikolas.
-        <br><em><mark>IMC 2025</mark></em>
-      - <strong>X5G: An Open, Programmable, Multi-vendor, End-to-end, Private 5G O-RAN Testbed with NVIDIA ARC and OpenAirInterface.</strong>
-        <br> D Villa^, __Imran Khan^__, Florian Kaltenberger, Nicholas Hedberg, Ruben Soares da Silva, Stefano Maxenti, Leonardo Bonati, Anupa Kelkar, Chris Dick, Eduardo Baena,  Josep M Jornet, Tommaso Melodia, Michele Polese, Dimitrios Koutsonikolas.
-        <br><em><mark>IEEE Transactions of Mobile Computing (TMC 2025)</mark></em>
-      - <strong>On the Predictability of Fine-grained Cellular Network Throughput using Machine Learning Models.</strong>
-        <br>Omar Basit^,  Phuc Dinh^,  __Imran Khan^__, Z. Jonny Kong^, Y. Charlie Hu, Dimitrios Koutsonikolas, Myungjin Lee, Chaoyue Liu 
-        <br><em><mark>IEEE MASS 2024</mark></em>
-      - <strong>How Mature is 5G Deployment? A Cross-Sectional, Year-Long Study of 5G Uplink Performance.</strong>
-        <br>__Imran Khan__, Moinak Ghoshal, Joana Angjo, Sigrid Dimce, Mushahid Hussain, Paniz Parastar,
-        Yenchia Yu, Claudio Fiandrino, Charalampos Orfanidis, Shivang Aggarwal, Ana C Aguiar,
-        Ozgu Alay, Carla F. Chiasserini, Falko Dressler, Y. Charlie Hu, Steven Y. Kox, Dimitrios Koutsonikolas, Joerg Widmer
-        <br><em><mark>IFIP Networking 2024</mark></em>
-      - <strong>An Open, Programmable, Multi-vendor 5G O-RAN Testbed with NVIDIA ARC and OpenAirInterface.</strong>
-        <br>D Villa^, __Imran Khan^__, Florian Kaltenberger, Nicholas Hedberg, Ruben Soares da Silva, Anupa Kelkar, Chris Dick, Stefano Basagni, Josep M Jornet, Tommaso Melodia, Michele Polese, Dimitrios Koutsonikolas.
-        <br><em><mark>IEEE INFOCOM NG-OPERA 2024 [Best Paper Runner-Up]</mark></em>
-      - <strong>An Experimental Study of Low-Latency Video Streaming over 5G.</strong>
-        <br>__Imran Khan__, Tuyen X. Tran, Matti Hiltunen, Theodore Karagioules, Dimitrios Koutsonikolas.
-        <br><em><mark>IEEE MeditCom 2024</mark></em>
-      - <strong>Can 5G mmWave Enable Edge-Assisted Real-Time Object Detection for Augmented Reality?</strong>
-        <br>Moinak Ghoshal, Z Jonny Kong, Qiang Xu, Zixiao Lu, Shivang Aggarwal, **Imran Khan**, Jiayi Meng, Yuanjie Li, Y Charlie Hu, Dimitrios Koutsonikolas.
-        <br><em><mark>IEEE MASCOTS 2023</mark></em>
-      - <strong>Performance of Cellular Networks on the Wheels.</strong>
-        <br>__Imran Khan^__, Moinak Ghoshal^, Jonny Kong^, Phuc Dinh, Jiayi Meng, Y. Charlie Hu, Dimitrios Koutsonikolas.
-        <br><em><mark>ACM IMC, 2023</mark></em>
-      - <strong>Demo: NextG-up: a tool for measuring uplink performance of 5G networks. </strong>
-        <br>**Imran Khan^**, Moinak Ghoshal^, Qiang Xu^, Z. Jonny Kong, Y. Charlie Hu, and Dimitrios Koutsonikolas. 
-        <br><em><mark>ACM Mobisys, 2022</mark></em>
-      - <strong>MuSher: An Agile Multipath-TCP Scheduler for Dual-Band 802.11ad/ac Wireless LANs.</strong> 
-        <br>S. Aggarwal, S. K. Saha, **Imran Khan**, R. Pathak, D. Koutsonikolas and J. Widmer.
-        <br><em><mark>IEEE/ACM Transactions on Networking, 2022</mark></em>
-      - <strong>An In-Depth Study of Uplink Performance of 5G mmWave Networks.</strong>
-        <br>Moinak Ghoshal, Z. Jonny Kong, Qiang Xu, Zixiao Lu, Shivang Aggarwal, **Imran Khan**, Yuanjie Li, Y. Charlie Hu, Dimitrios Koutsonikolas.
-        <br><em><mark>ACM SIGCOMM 5G-MEMU, 2022</mark></em>
-      - <strong>Multipath TCP in Smartphones Equipped with Millimeter Wave Radios.</strong>
-        <br>**Imran Khan**, Moinak Ghoshal, Shivang Aggarwal, Dimitrios Koutsonikolas, Joerg Widmer. 
-        <br><em><mark>ACM WiNTECH, 2021</mark></em>
-      - <strong>Efficient Bandwidth Aggregation with MPTCP for Connected Vehicles.</strong> 
-        <br>**Imran Khan**, K. Chen.
-        <br><em><mark>IEEE Internet of Things, 2021</mark></em>
-      - <strong>Bandwidth-need driven energy efficiency improvement of MPTCP users in wireless networks.</strong>
-        <br>M. R. Palash, K. Chen, **Imran Khan**.
-        <br><em><mark>IEEE Trans. Green Commun. Netw., 2019</mark></em>
-      - <strong>Towards Efficient, Work-Conserving, and Fair Bandwidth Guarantee in Cloud Datacenters.</strong>
-        <br>B. S. Ali, K. Chen and **Imran Khan**.
-        <br><em><mark>IEEE Access, 2019</mark></em>
-
-
-  - title: Experience # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: left
-        title: AT&T Labs, Inc.
-        link: https://about.att.com/sites/labs
-        # link_text: boringcompany.com
-        sub_title: Research Intern
-        caption: June 2021 - August 2021
-        # quote: >
-        #   Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
-        description: | # this will include new lines to allow paragraphs
-            Investigated performnce of low-latency video streaming over cellular networks in a joint project with Facebook. The purpose of this study was to correlate RAN side KPIs with application layer metrics to enhance user Quality of Experience (QoE). 
-
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
         title: Northeastern University
-        caption: 2020 - Present
+        caption: 2021 - 2026
         sub_title: Ph.D. in Computer Engineering
         # quote: >
         #   Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description: | # this will include new lines to allow paragraphs
-          I am part of NuWINS lab and also affiliated with the Northeastern Institure for the Wireless Internet of Things (WIoT). As part of the WIoT I am involved in developing next generation cellular networks/testbeds. Besides, my other projects involve ensuring end to end performance, mobility, reliability and consistency of performance of mmWave cellular in current 5G. 
-      
+          I am part of NuWINS lab and also affiliated with the Northeastern Institure for the Wireless Internet of Things (WIoT). As part of the WIoT I am involved in developing next generation cellular networks/testbeds. Besides, my other projects involve ensuring end to end performance, mobility, reliability and consistency of performance of mmWave cellular in current 5G.
+
       - layout: left
         title:  Southern Illinois University Carbondale
         caption: 2018 - 2020
@@ -159,7 +84,36 @@ content:
         #   Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description: | # this will include new lines to allow paragraphs
                Bangladesh University of Engineering and Technology (BUET) is one of the top enginnering schools in Bangladesh.
-  
+
+  - title: Publications # Title for the section
+    layout: bibliography # Reads generic Markdown citations from _data/publications.yml
+    content: publications
+
+
+  - title: Experience # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: AT&T Labs, Inc.
+        link: https://about.att.com/sites/labs
+        sub_title: Research Engineer
+        caption: 2026 - 2026 | Contract
+        description: |
+          *Developed a production-ready anomaly detection pipeline for E911 network KPIs using a lightweight Isolation Forest model, enriched with SIP/CCDR protocol context, including message types, cause codes, and failure indicators. Engineered historical baseline features using z-scores, rolling means, and rolling standard deviations to identify KPI degradation, achieving ~90% anomaly correlation with known network incidents.
+          
+          *Benchmarked graph-based SSB optimization approaches using Google OR-Tools and SCIP on production network inventory data, incorporating neighbor weights to evaluate optimization performance in terms of execution time, number of configuration changes, and iterations required to reach optimality.
+
+      - layout: left
+        title: AT&T Labs, Inc.
+        link: https://about.att.com/sites/labs
+        # link_text: boringcompany.com
+        sub_title: Research Intern
+        caption: June 2021 - August 2021
+        # quote: >
+        #   Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+        description: | # this will include new lines to allow paragraphs
+            Investigated performnce of low-latency video streaming over cellular networks in a joint project with Facebook. The purpose of this study was to correlate RAN side KPIs with application layer metrics to enhance user Quality of Experience (QoE). 
+
   - title: Skills
     layout: text
     content: | # this will include new lines to allow paragraphs
@@ -179,7 +133,7 @@ content:
   - title: CV
     layout: text
     content: | # this will include new lines to allow paragraphs
-      - Here is my [CV](/assets/IMRAN_CV_Academic.pdf).
+      - Here is my [CV](/assets/IMRAN_CV_Research.pdf).
 
   - title: Awards and Professional Service
     layout: text

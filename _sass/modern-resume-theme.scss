@@ -13,6 +13,71 @@
   font-weight:500;
 }
 
+.name-with-signal {
+  display: flex;
+  align-items: center;
+  gap: 0.8rem;
+}
+
+.cell-tower-icon {
+  color: #355e98;
+  display: inline-flex;
+  flex: 0 0 auto;
+  height: 3.8rem;
+  width: 3.8rem;
+
+  svg {
+    height: 100%;
+    overflow: visible;
+    width: 100%;
+  }
+}
+
+.tower-mast,
+.tower-node,
+.signal-arc {
+  fill: none;
+  stroke: currentColor;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+}
+
+.tower-mast {
+  stroke-width: 2.2;
+}
+
+.tower-node {
+  fill: currentColor;
+  stroke-width: 0;
+}
+
+.signal-arc {
+  stroke-width: 1.8;
+  animation: tower-signal 1.8s ease-out infinite;
+  transform-box: fill-box;
+  transform-origin: center;
+}
+
+.signal-arc-outer {
+  animation-delay: 0.55s;
+}
+
+@keyframes tower-signal {
+  0%, 100% { opacity: 0.25; transform: scale(0.9); }
+  45% { opacity: 1; transform: scale(1.06); }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .signal-arc {
+    animation: none;
+    opacity: 1;
+  }
+}
+
+.contact-email-icon {
+  margin-right: 0.4rem;
+}
+
 @media screen and (max-width: 767px) {
   .header-container div{
     text-align: center;
@@ -40,6 +105,55 @@
   -moz-box-shadow: inset 0 0 20px #636161;
   -webkit-box-shadow: inset 0 0 20px #636161;
   box-shadow: inset 0 0 20px #636161;
+}
+
+.bibliography {
+  font-size: 1.6rem;
+  line-height: 1.5;
+}
+
+.publication-entry {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) auto;
+  gap: 0.25rem 2rem;
+  padding: 1.25rem 0;
+  border-bottom: 1px solid #e5e5e5;
+}
+
+.publication-title,
+.publication-venue {
+  font-weight: 500;
+}
+
+.publication-authors,
+.publication-year {
+  font-weight: 300;
+}
+
+.publication-venue,
+.publication-year {
+  text-align: right;
+  white-space: nowrap;
+}
+
+.publication-note {
+  margin-top: 1rem;
+  font-size: 1.4rem;
+  font-style: italic;
+  font-weight: 300;
+}
+
+@media screen and (max-width: 767px) {
+  .publication-entry {
+    grid-template-columns: 1fr;
+    gap: 0.2rem;
+  }
+
+  .publication-venue,
+  .publication-year {
+    text-align: left;
+    white-space: normal;
+  }
 }
 
 .list-container {

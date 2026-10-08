@@ -1,0 +1,16 @@
+{% assign bibliography = site.data[include.content] %}
+<div class="row clearfix">
+  <div class="col-md-12">
+    <div class="bibliography">
+      {% for entry in bibliography %}
+        <article class="publication-entry">
+          <div class="publication-title">{{ entry.title | default: entry.citation | markdownify | remove: '<p>' | remove: '</p>' }}</div>
+          <div class="publication-venue">{{ entry.venue }}</div>
+          <div class="publication-authors">{{ entry.authors }}</div>
+          <div class="publication-year">{{ entry.year }}</div>
+        </article>
+      {% endfor %}
+      <p class="publication-note">* Equal contribution</p>
+    </div>
+  </div>
+</div>
