@@ -138,16 +138,12 @@ content:
   - title: Awards and Professional Service
     layout: text
     content: | # this will include new lines to allow paragraphs
-      - Reviewer Internet of Things 2024
-      - Reviewer Computer Networks 2024
-      - Web-Chair IEEE LANMAN 2024
-      - TPC Member IEEE WCNC 2024
-      - Reviewer IEEE ICC 2024
-      - Web-Chair IEEE WoWMoM 2023
-      - Got selected for NSF Funded Student travel grant for Mobicom’2021
-      - Reviewer Globecom 2021
-      - Reviewer 5G-MEMU Sigcomm WorkShop 2021
-      - Got selected for NSF Funded POWDER Network and Wireless Week, Salt Lake City , Utah 2019
+      - **2026:** Reviewer, COMCOM; *Computer Networks*; *IEEE Transactions on Green Communications and Networking*
+      - **2025:** Reviewer, COMCOM; IEEE VTC; *IEEE Transactions on Green Communications and Networking*
+      - **2024:** Reviewer, *Internet of Things*; Reviewer, *Computer Networks*; Web Chair, IEEE LANMAN; TPC Member, IEEE WCNC; Reviewer, IEEE ICC
+      - **2023:** Web Chair, IEEE WoWMoM
+      - **2021:** NSF-funded student travel grant for MobiCom; Reviewer, IEEE Globecom; Reviewer, SIGCOMM 5G-MEMU Workshop
+      - **2019:** Selected for NSF-funded POWDER Network and Wireless Week, Salt Lake City, Utah
 
     # Look at this cool image  
     # ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
