@@ -53,18 +53,18 @@
 
 .signal-arc {
   stroke-width: 1.8;
-  animation: tower-signal 1.8s ease-out infinite;
-  transform-box: fill-box;
-  transform-origin: center;
+  stroke-dasharray: 6 4;
+  animation: tower-signal 1.8s linear infinite;
 }
 
 .signal-arc-outer {
-  animation-delay: 0.55s;
+  animation-delay: 0.45s;
 }
 
 @keyframes tower-signal {
-  0%, 100% { opacity: 0.25; transform: scale(0.9); }
-  45% { opacity: 1; transform: scale(1.06); }
+  0% { opacity: 0.25; stroke-dashoffset: 20; }
+  50% { opacity: 1; }
+  100% { opacity: 0.25; stroke-dashoffset: 0; }
 }
 
 @media (prefers-reduced-motion: reduce) {
@@ -115,6 +115,9 @@
 .publication-entry {
   display: grid;
   grid-template-columns: minmax(0, 1fr) auto;
+  grid-template-areas:
+    "title venue"
+    "authors year";
   gap: 0.25rem 2rem;
   padding: 1.25rem 0;
   border-bottom: 1px solid #e5e5e5;
@@ -124,6 +127,11 @@
 .publication-venue {
   font-weight: 500;
 }
+
+.publication-title { grid-area: title; }
+.publication-venue { grid-area: venue; }
+.publication-authors { grid-area: authors; }
+.publication-year { grid-area: year; }
 
 .publication-authors,
 .publication-year {
@@ -144,8 +152,17 @@
 }
 
 @media screen and (max-width: 767px) {
+  .name-with-signal {
+    justify-content: center;
+  }
+
   .publication-entry {
     grid-template-columns: 1fr;
+    grid-template-areas:
+      "title"
+      "authors"
+      "venue"
+      "year";
     gap: 0.2rem;
   }
 
