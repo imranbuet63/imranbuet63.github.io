@@ -66,7 +66,7 @@ content:
         # quote: >
         #   Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description: | # this will include new lines to allow paragraphs
-          I am part of NuWINS lab and also affiliated with the Northeastern Institure for the Wireless Internet of Things (WIoT). As part of the WIoT I am involved in developing next generation cellular networks/testbeds. Besides, my other projects involve ensuring end to end performance, mobility, reliability and consistency of performance of mmWave cellular in current 5G.
+          I am part of NuWINS lab and also affiliated with the Northeastern Institure for the Wireless Internet of Things (WIoT). As part of the WIoT I am involved in developing next generation cellular networks/testbeds. Besides, my other projects involve ensuring end to end performance, mobility, reliability and consistency of 5G networks.
 
       - layout: left
         title:  Southern Illinois University Carbondale
