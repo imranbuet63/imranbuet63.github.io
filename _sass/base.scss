@@ -1,4 +1,4 @@
-@import url(https://fonts.googleapis.com/css?family=Roboto:100,300,400,700,500,500italic,400italic,300italic,100italic,700italic);
+@import url(https://fonts.googleapis.com/css?family=Fira+Sans:300,300i,400,400i,500,500i,700,700i);
 @import url(https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css);
 @import url(https://use.fontawesome.com/releases/v5.11.2/css/all.css);
 @import url(https://use.fontawesome.com/releases/v5.11.2/css/v4-shims.css);
@@ -11,7 +11,7 @@ button, input[type="button"], input[type="reset"], input[type="submit"] {
   color: #4656b0;
   cursor: pointer;
   display: inline-block;
-  font-family: "Helvetica Neue", "Helvetica", "Roboto", "Arial", sans-serif;
+  font-family: "Fira Sans", sans-serif;
   font-size: 1rem;
   -webkit-font-smoothing: antialiased;
   font-weight: 600;
@@ -45,7 +45,7 @@ input,
 label,
 select {
   display: block;
-  font-family: "Helvetica Neue", "Helvetica", "Roboto", "Arial", sans-serif;
+  font-family: "Fira Sans", sans-serif;
   font-size: 1rem; }
 
 label {
@@ -148,7 +148,7 @@ html {
 
 body {
   background: #ffffff;
-  font-family: Roboto, sans-serif;
+  font-family: "Fira Sans", sans-serif;
   // background: #edf5f5;
   // font-family: Fira Sans, sans-serif;
   -webkit-font-smoothing: antialiased; }

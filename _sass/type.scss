@@ -1,6 +1,6 @@
 body {
   color: #333;
-  font-family: Roboto, sans-serif;
+  font-family: "Fira Sans", sans-serif;
   // color: #0e0e0e;
   // font-family: Fira Sans,sans-serif; //Verdana, sans-serif //Fira Sans,sans-serif //Georgia, serif
   font-feature-settings: "kern", "liga", "pnum";
@@ -18,19 +18,19 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: Roboto, sans-serif;
+  font-family: "Fira Sans", sans-serif;
   font-size: 1rem;
   line-height: 1.2;
   margin: 0 0 0.75rem;
 }
 
 p {
-  font-family:  Roboto, sans-serif;
+  font-family: "Fira Sans", sans-serif;
   font-size: 1rem;
   margin: 0 0 0.75rem; }
 
 a {
-  font-family:  Roboto, sans-serif;
+  font-family: "Fira Sans", sans-serif;
   color: #1a0ba5;
   font-weight: bold;
   transition: color 150ms ease;
