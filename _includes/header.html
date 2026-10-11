@@ -27,6 +27,13 @@
             </a>
           </li>
         {%- endif -%}
+        {% for link in site.additional_links %}
+          <li>
+            {% include a.html href=link.url class="button button--sacnite button--round-l" %}
+              <i class="{{ link.icon }}" title="{{ link.title | escape }}"></i>
+            </a>
+          </li>
+        {% endfor %}
         {%- if site.github_username -%}
           <li>
             <a target="_blank" href="https://github.com/{{ site.github_username| cgi_escape | escape }}" class="button button--sacnite button--round-l">
@@ -97,13 +104,6 @@
             </a>
           </li>
         {%- endif -%}
-        {% for link in site.additional_links %}
-          <li>
-            {% include a.html href=link.url class="button button--sacnite button--round-l" %}
-              <i class="{{ link.icon }}" title="{{ link.title | escape }}"></i>
-            </a>
-          </li>
-        {% endfor %}
         <li>
           <span class="cell-tower-icon" role="img" aria-label="Cellular signal">
             <svg viewBox="0 0 48 52" aria-hidden="true" focusable="false">
