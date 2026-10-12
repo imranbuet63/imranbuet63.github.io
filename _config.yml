@@ -75,7 +75,7 @@ content:
         # quote: >
         #   Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description: | # this will include new lines to allow paragraphs
-          I was part of the Ubiquitous Networking & Computing lab where I was involved with investigating Multi-Path TCP (MPTCP) performance in heterogenous networks.
+          I was part of the Ubiquitous Networking & Computing lab where I investigated Multi-Path TCP (MPTCP) performance in heterogenous networks.
 
       - layout: left
         title:  Bangladesh University of Engineering and Technology (BUET)
