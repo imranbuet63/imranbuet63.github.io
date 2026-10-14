@@ -1,7 +1,7 @@
 # Generated from _data/*.bib by scripts/generate_publications.rb. Do not edit manually.
 ---
 - title: A Cross-Country Measurement Study of Inter-cell Interference in Cellular
-    Networks PDF
+    Networks 
   venue: ACM CoNEXT
   authors: Zhekun Yu, Yufei Feng, Moinak Ghoshal, Omar Basit, <strong>Imran Khan</strong>,
     Z. Jonny Kong, Sizhe Wang, Phuc Dinh, Y. Charlie Hu, Dimitrios Koutsonikolas
